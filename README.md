@@ -1,6 +1,6 @@
 # 💻 Venkata Sai Sriram Potluri
 
-**Cloud & DevOps Engineer | AWS Certified | Terraform & Kubernetes Certified | Azure/GCP Experience | CI/CD Automation | Cloud Infrastructure | Big Data | Machine Learning Enthusiast Open to C2C in USA**
+**Cloud & DevOps Engineer | AWS Certified | Terraform & Kubernetes Certified | Azure/GCP Experience | CI/CD Automation | Cloud Infrastructure | Big Data | Machine Learning Enthusiast
 
 
 ---
