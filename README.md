@@ -1,10 +1,7 @@
-# 💻 Sriram P
+# 💻 Venkata Sai Sriram Potluri
 
 **Cloud & DevOps Engineer | AWS Certified | Terraform & Kubernetes Certified | Azure/GCP Experience | CI/CD Automation | Cloud Infrastructure | Big Data | Machine Learning Enthusiast Open to C2C in USA**
 
-🌍 Location: Dallas, Texas  
-📫 Email: [psriram015@gmail.com](mailto:psriram015@gmail.com)  
-🔗 LinkedIn: [Sriram P](https://www.linkedin.com/in/psriram015/)
 
 ---
 
