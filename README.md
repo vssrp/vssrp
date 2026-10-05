@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm Venkata Sai Sriram Potluri, a Cloud & DevOps Engineer with 7 years of experience designing scalable, automated, and secure cloud infrastructures across AWS and multi-cloud environments. I focus on building high-availability systems, modernizing workloads, and enabling faster, reliable delivery through automation.
+Hi there! I'm Venkata Sai Sriram Potluri, a Cloud & DevOps Engineer with 5 years of experience designing scalable, automated, and secure cloud infrastructures across AWS and multi-cloud environments. I focus on building high-availability systems, modernizing workloads, and enabling faster, reliable delivery through automation.
 
 🔧 What I Do
 
