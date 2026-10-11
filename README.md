@@ -142,5 +142,5 @@ Branch-and-bound exact solver + approximation algorithm for NP-hard network desi
 
 <p align="center">
   <em>Open to collaborating on cloud infrastructure, DevOps automation, and ML projects.</em><br/>
-  <a href="https://www.linkedin.com/in/vssrp/">Let's connect →</a>
+  <a href="https://www.linkedin.com/in/venkata-sai-sriram-potluri/">Let's connect →</a>
 </p>
