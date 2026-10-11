@@ -48,28 +48,28 @@
 
 ## 🚀 Featured Projects
 
-### [Kubernetes App Deployment with GitOps](https://github.com/venkata-sai-sriram-potluri/Dockerised-Application-Deployment-in-Kubernetes-Cluster)
+### [Kubernetes App Deployment with GitOps](https://github.com/vssrp/Dockerised-Application-Deployment-in-Kubernetes-Cluster)
 End-to-end GitOps pipeline: GitHub Actions → SonarCloud → Docker → ECR → EKS via Helm. Infrastructure provisioned with Terraform.
 
 `GitHub Actions` `Terraform` `EKS` `ECR` `Docker` `Helm` `SonarCloud`
 
 ---
 
-### [GitOps with GitHub Actions & Terraform](https://github.com/venkata-sai-sriram-potluri/GitOps-Deployment-with-GitHub-Actions-and-Terraform)
+### [GitOps with GitHub Actions & Terraform](https://github.com/vssrp/GitOps-Deployment-with-GitHub-Actions-and-Terraform)
 Containerized app deployed to a Kubernetes cluster with Ingress, ALB load balancing, and EBS persistent storage.
 
 `Docker` `Kubernetes` `Terraform` `CloudFormation` `ALB` `EBS`
 
 ---
 
-### [AWS Cloud Re-Architecture](https://github.com/venkata-sai-sriram-potluri/AWS-Cloud-Re-Architecture-Cloud-Native-Migration-)
+### [AWS Cloud Re-Architecture](https://github.com/vssrp/AWS-Cloud-Re-Architecture-Cloud-Native-Migration-)
 Broke a monolith into microservices on Elastic Beanstalk with API Gateway, Lambda, RDS, and ElastiCache.
 
 `Elastic Beanstalk` `API Gateway` `Lambda` `RDS` `ElastiCache`
 
 ---
 
-### [CI/CD Pipeline with Jenkins](https://github.com/venkata-sai-sriram-potluri/CICD-Pipeline-Automation-using-Jenkins)
+### [CI/CD Pipeline with Jenkins](https://github.com/vssrp/CICD-Pipeline-Automation-using-Jenkins)
 Jenkins master-slave pipeline with GitHub webhooks, Maven builds, Nexus artifact storage, and SonarQube code analysis. Secured with RBAC and LDAP.
 
 `Jenkins` `Maven` `Nexus` `SonarQube` `RBAC`
@@ -80,49 +80,49 @@ Jenkins master-slave pipeline with GitHub webhooks, Maven builds, Nexus artifact
 <summary><strong>📂 More Projects</strong></summary>
 <br/>
 
-### [AWS Lift & Shift Migration](https://github.com/venkata-sai-sriram-potluri/AWS-Lift-Shift-Migration)
+### [AWS Lift & Shift Migration](https://github.com/vssrp/AWS-Lift-Shift-Migration)
 Migrated an on-prem web app to AWS with EC2 Auto Scaling, ELB, S3, Route 53, and WAF security.
 
 `EC2` `ELB` `Auto Scaling` `S3` `Route 53` `Terraform`
 
 ---
 
-### [Multi-Service Local Infrastructure](https://github.com/venkata-sai-sriram-potluri/Multi-Service-Local-Infrastructure-Setup)
+### [Multi-Service Local Infrastructure](https://github.com/vssrp/Multi-Service-Local-Infrastructure-Setup)
 Multi-tier app infra automated with Vagrant — MariaDB, Memcached, RabbitMQ, Tomcat, and Nginx, all scripted.
 
 `Vagrant` `VirtualBox` `Shell Scripting` `Nginx` `MariaDB` `RabbitMQ`
 
 ---
 
-### [Docker Networking on AWS](https://github.com/venkata-sai-sriram-potluri/Containerization)
+### [Docker Networking on AWS](https://github.com/vssrp/Containerization)
 Docker containers on EC2 with bridge networking, veth pairs, and NAT for outbound connectivity.
 
 `Docker` `EC2` `Linux Networking`
 
 ---
 
-### [Grocery Demand Prediction](https://github.com/venkata-sai-sriram-potluri/Grocery-Demand-Prediction)
+### [Grocery Demand Prediction](https://github.com/vssrp/Grocery-Demand-Prediction)
 Time-series forecasting with SARIMA — reduced prediction error by 7% on sales and promotions data.
 
 `Python` `SARIMA` `Time-Series Analysis`
 
 ---
 
-### [Counterfeit IC Detection](https://github.com/venkata-sai-sriram-potluri/Counterfeit-IC-Detection-System)
+### [Counterfeit IC Detection](https://github.com/vssrp/Counterfeit-IC-Detection-System)
 Custom CNN achieving 94% validation accuracy, benchmarked against VGG16 and AlexNet.
 
 `PyTorch` `CNN` `Deep Learning`
 
 ---
 
-### [Text Summarization with SVD](https://github.com/venkata-sai-sriram-potluri/Text-Summarization-Tool-Using-SVD)
+### [Text Summarization with SVD](https://github.com/vssrp/Text-Summarization-Tool-Using-SVD)
 Extractive text summarizer using Singular Value Decomposition with a Tkinter GUI.
 
 `Python` `NLP` `SVD` `Tkinter`
 
 ---
 
-### [Steiner Tree Optimization](https://github.com/venkata-sai-sriram-potluri/Steiner-Tree-Problem-Optimization-Algorithms-for-Network-Design)
+### [Steiner Tree Optimization](https://github.com/vssrp/Steiner-Tree-Problem-Optimization-Algorithms-for-Network-Design)
 Branch-and-bound exact solver + approximation algorithm for NP-hard network design problems.
 
 `Python` `Graph Theory` `Optimization`
@@ -134,13 +134,13 @@ Branch-and-bound exact solver + approximation algorithm for NP-hard network desi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkata-sai-sriram-potluri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkata-sai-sriram-potluri&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vssrp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vssrp&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
 <p align="center">
   <em>Open to collaborating on cloud infrastructure, DevOps automation, and ML projects.</em><br/>
-  <a href="https://www.linkedin.com/in/venkata-sai-sriram-potluri/">Let's connect →</a>
+  <a href="https://www.linkedin.com/in/vssrp/">Let's connect →</a>
 </p>
