@@ -1,161 +1,148 @@
-# 💻 Venkata Sai Sriram Potluri
+<h1 align="center">Hey, I'm Sriram 👋</h1>
 
-**Cloud & DevOps Engineer | AWS Certified | Terraform & Kubernetes Certified | Azure/GCP Experience | CI/CD Automation | Cloud Infrastructure | Big Data | Machine Learning Enthusiast
+<p align="center">
+  <strong>Cloud & DevOps Engineer</strong> · Building scalable, automated infrastructure across AWS and multi-cloud environments.<br/>
+  5 years shipping production-grade systems — from lift-and-shift migrations to Kubernetes-native platforms.
+</p>
 
-
----
-
-## 👨‍💻 About Me
-
-Hi there! I'm Venkata Sai Sriram Potluri, a Cloud & DevOps Engineer with 5 years of experience designing scalable, automated, and secure cloud infrastructures across AWS and multi-cloud environments. I focus on building high-availability systems, modernizing workloads, and enabling faster, reliable delivery through automation.
-
-🔧 What I Do
-
-Architect AWS and multi-cloud infrastructure for scalable, production-grade environments
-Build and automate CI/CD pipelines using GitHub Actions, GitLab, Jenkins, and Azure DevOps
-Implement Infrastructure as Code (Terraform & CloudFormation) for consistent, repeatable deployments
-Containerize and orchestrate workloads using Docker, Kubernetes, ECS, and Fargate
-Enhance performance and reliability through monitoring, logging, and cost optimization
-Integrate secure workflows using IAM, Secrets Manager, Key Vault, and RBAC
-
-🚀 Key Areas of Expertise
-
-Cloud Migrations and Secure Data Workflows
-Cloud Migrations & Infrastructure Modernization
-Kubernetes Deployments & GitOps Automation
-CI/CD Pipeline Engineering & Environment Automation
-Serverless Architectures (Lambda, API Gateway, DynamoDB)
-Observability (CloudWatch, Grafana, Prometheus, Splunk)
-High-Availability, Auto-Scaling & Cost Optimization
-Time-Series Forecasting and Computer Vision Projects
-ETL Pipeline Optimization and Real-Time Monitoring
+<p align="center">
+  <a href="https://www.linkedin.com/in/venkata-sai-sriram-potluri/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonwebservices&logoColor=white" />
+</p>
 
 ## 📜 Certifications
 
-- **Certified Kubernetes Administrator (CKA)**
-- **HashiCorp Terraform Associate**
--  **AWS Certified Solutions Architect Associate**  
-- **AWS Certified Cloud Practitioner**  
-- **Graduate Certificate in Data Science (KU)**  
+<p>
+  <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/KU-Data_Science_Certificate-0051BA?style=flat-square&logoColor=white" />
+</p>
 
 ---
 
-## 🌟 Projects
+## 🚀 Featured Projects
 
-### **Multi-Service-Local-Infrastructure-Setup**  
-**Key Skills**: DevOps, Infrastructure Automation, Vagrant, VirtualBox, Shell Scripting, Nginx, MariaDB, RabbitMQ  
-- Designed and deployed a multi-tier web application infrastructure using manual and automated provisioning methods.  
-- Automated VM provisioning and service setup with Vagrant and shell scripts.  
-- Configured and deployed services: MariaDB, Memcached, RabbitMQ, Tomcat, and Nginx.  
-- Tested and deployed the setup with a Java-based web application.  
-- Achieved scalability and consistency with reusable scripts and a modular architecture.  
-- [View Repository](https://github.com/venkata-sai-sriram-potluri/Multi-Service-Local-Infrastructure-Setup)
+### [Kubernetes App Deployment with GitOps](https://github.com/venkata-sai-sriram-potluri/Dockerised-Application-Deployment-in-Kubernetes-Cluster)
+End-to-end GitOps pipeline: GitHub Actions → SonarCloud → Docker → ECR → EKS via Helm. Infrastructure provisioned with Terraform.
+
+`GitHub Actions` `Terraform` `EKS` `ECR` `Docker` `Helm` `SonarCloud`
 
 ---
 
-### AWS Lift & Shift Migration  
-Key Skills: AWS EC2, Elastic Load Balancer (ELB), Auto Scaling, S3, Route 53, Terraform, Security & Compliance  
-- Migrated a Cloud-Based Web Application from an on-premise environment to AWS Cloud using a Lift & Shift strategy.  
-- Deployed AWS EC2 instances with Auto Scaling and Load Balancer for high availability.  
-- Configured AWS S3 and EFS for storage and ensured security with IAM roles, Security Groups, and WAF.  
-- Set up Amazon Route 53 for private DNS and domain resolution.  
-- [View Repository](https://github.com/venkata-sai-sriram-potluri/AWS-Lift-Shift-Migration) 
+### [GitOps with GitHub Actions & Terraform](https://github.com/venkata-sai-sriram-potluri/GitOps-Deployment-with-GitHub-Actions-and-Terraform)
+Containerized app deployed to a Kubernetes cluster with Ingress, ALB load balancing, and EBS persistent storage.
+
+`Docker` `Kubernetes` `Terraform` `CloudFormation` `ALB` `EBS`
 
 ---
 
-### AWS Cloud Re-Architecture (Cloud-Native Migration)  
-Key Skills: AWS Elastic Beanstalk, API Gateway, Lambda, RDS, Elastic Cache, Microservices, CI/CD  
-- Re-architected a monolithic application into a microservices-based cloud-native solution.  
-- Deployed the application using AWS Elastic Beanstalk for automated scaling.  
-- Integrated AWS API Gateway and Lambda for microservices-based request handling.  
-- Configured Amazon RDS (MySQL, PostgreSQL) and Elastic Cache (Redis, Memcached) for improved database performance.  
-- [View Repository](https://github.com/venkata-sai-sriram-potluri/AWS-Cloud-Re-Architecture-Cloud-Native-Migration-)  
+### [AWS Cloud Re-Architecture](https://github.com/venkata-sai-sriram-potluri/AWS-Cloud-Re-Architecture-Cloud-Native-Migration-)
+Broke a monolith into microservices on Elastic Beanstalk with API Gateway, Lambda, RDS, and ElastiCache.
+
+`Elastic Beanstalk` `API Gateway` `Lambda` `RDS` `ElastiCache`
 
 ---
 
-### CI/CD Pipeline Automation using Jenkins  
-Key Skills: Jenkins, GitHub, Maven, Nexus Repository, SonarQube, Artifact Management  
-- Developed an automated CI/CD pipeline using Jenkins (Master-Slave architecture).  
-- Configured GitHub Webhooks for automated pipeline execution.  
-- Implemented Maven for build automation and Nexus Repository for artifact storage.  
-- Integrated SonarQube for static code analysis and vulnerability scanning.  
-- Scheduled Cron Jobs and Poll SCM for automated builds and deployments.  
-- Secured Jenkins with Role-Based Access Control (RBAC), LDAP authentication.  
-- [View Repository](https://github.com/venkata-sai-sriram-potluri/CICD-Pipeline-Automation-using-Jenkins)
+### [CI/CD Pipeline with Jenkins](https://github.com/venkata-sai-sriram-potluri/CICD-Pipeline-Automation-using-Jenkins)
+Jenkins master-slave pipeline with GitHub webhooks, Maven builds, Nexus artifact storage, and SonarQube code analysis. Secured with RBAC and LDAP.
+
+`Jenkins` `Maven` `Nexus` `SonarQube` `RBAC`
 
 ---
 
-### Containerization   
-Key Skills: Docker, Docker Compose, EC2, Docker CLI, Containerization, Microservices Architecture
-- Deployed Docker containers on an AWS EC2 instance using the default bridge network for secure, isolated container communication within the host.
-- Configured virtual Ethernet (veth) pairs to connect containers to the bridge interface, enabling efficient inter-container and host-to-container communication.
-- Enabled outbound internet connectivity for containers through Network Address Translation (NAT) managed by the EC2 host.
-- Leveraged Docker’s built-in networking to ensure containers remain logically isolated while maintaining internal accessibility.
-- Utilized Docker CLI and Linux networking tools to inspect, manage, and troubleshoot container networking within the EC2 environment.
-- Ensured robust and scalable container networking setup as part of a cloud-native development and deployment strategy on AWS.  
-- [View Repository](https://github.com/venkata-sai-sriram-potluri/Containerization)
+<details>
+<summary><strong>📂 More Projects</strong></summary>
+<br/>
+
+### [AWS Lift & Shift Migration](https://github.com/venkata-sai-sriram-potluri/AWS-Lift-Shift-Migration)
+Migrated an on-prem web app to AWS with EC2 Auto Scaling, ELB, S3, Route 53, and WAF security.
+
+`EC2` `ELB` `Auto Scaling` `S3` `Route 53` `Terraform`
 
 ---
 
-### Dockerised Application Deployment in Kubernetes Cluster
-Key Skills: GitOps, GitHub Actions, CI/CD, Terraform, AWS (EKS, ECR), Docker, Helm Charts, Kubernetes.
-- Implemented GitOps methodology using GitHub Actions for CI/CD automation, ensuring streamlined deployment and version control.
-- Leveraged Terraform for infrastructure as code to provision and manage AWS resources, including Amazon EKS and ECR.
-- Integrated SonarCloud for static code analysis and quality assurance, ensuring code reliability and security.
-- Utilized Docker for containerization and Helm Charts for Kubernetes application deployment, enabling reproducible and scalable releases.
-- Established a workflow involving pull requests, code merging, and automated testing to enhance collaboration and maintain deployment consistency.
-- [View Repository](https://github.com/venkata-sai-sriram-potluri/Dockerised-Application-Deployment-in-Kubernetes-Cluster)
+### [Multi-Service Local Infrastructure](https://github.com/venkata-sai-sriram-potluri/Multi-Service-Local-Infrastructure-Setup)
+Multi-tier app infra automated with Vagrant — MariaDB, Memcached, RabbitMQ, Tomcat, and Nginx, all scripted.
+
+`Vagrant` `VirtualBox` `Shell Scripting` `Nginx` `MariaDB` `RabbitMQ`
 
 ---
 
-### GitOps Deployment with GitHub Actions and Terraform   
-Key Skills: Docker, Kubernetes, IaC(Terraform, CloudFormation), Load Balancing, AWS Block Storage (EBS)
-- Built Docker images from application source code using Docker Build, ensuring containerized application consistency.
--	Tested containerized applications with Docker Compose, validating multi-container configurations and dependencies.
--	Pushed Docker images to Docker Hub, enabling centralized storage and access for containerized applications.
--	Deployed the application in a Kubernetes Cluster, utilizing Kubernetes Deployment and Services for scalable orchestration.
--	Configured Ingress and Load Balancing with Application Load Balancer, ensuring efficient traffic management.
--	Integrated Persistent Storage with Amazon EBS, supporting stateful application components and databases.
-- [View Repository](https://github.com/venkata-sai-sriram-potluri/GitOps-Deployment-with-GitHub-Actions-and-Terraform)
+### [Docker Networking on AWS](https://github.com/venkata-sai-sriram-potluri/Containerization)
+Docker containers on EC2 with bridge networking, veth pairs, and NAT for outbound connectivity.
+
+`Docker` `EC2` `Linux Networking`
 
 ---
 
-### **Grocery Demand Prediction**  
-**Key Skills**: SARIMA, Python, Data Preprocessing, Time-Series Analysis  
-- Developed a demand forecasting model using SARIMA, reducing error by 7%.  
-- Analyzed sales and promotions data for actionable inventory insights.  
-- [View Repository](https://github.com/venkata-sai-sriram-potluri/Grocery-Demand-Prediction)
+### [Grocery Demand Prediction](https://github.com/venkata-sai-sriram-potluri/Grocery-Demand-Prediction)
+Time-series forecasting with SARIMA — reduced prediction error by 7% on sales and promotions data.
+
+`Python` `SARIMA` `Time-Series Analysis`
 
 ---
 
-### **Counterfeit IC Detection System**  
-**Key Skills**: CNN, PyTorch, Deep Learning, Data Augmentation  
-- Built a custom CNN with 94% validation accuracy.  
-- Benchmarked against VGG16 and AlexNet for performance evaluation.  
-- [View Repository](https://github.com/venkata-sai-sriram-potluri/Counterfeit-IC-Detection-System)
+### [Counterfeit IC Detection](https://github.com/venkata-sai-sriram-potluri/Counterfeit-IC-Detection-System)
+Custom CNN achieving 94% validation accuracy, benchmarked against VGG16 and AlexNet.
+
+`PyTorch` `CNN` `Deep Learning`
 
 ---
 
-### **Text Summarization Tool Using SVD**  
-**Key Skills**: Python, Tkinter, SVD, NLP  
-- Designed an extractive summarization tool using Singular Value Decomposition (SVD).  
-- Developed an interactive GUI for user input and customizations.  
-- [View Repository](https://github.com/venkata-sai-sriram-potluri/Text-Summarization-Tool-Using-SVD)
+### [Text Summarization with SVD](https://github.com/venkata-sai-sriram-potluri/Text-Summarization-Tool-Using-SVD)
+Extractive text summarizer using Singular Value Decomposition with a Tkinter GUI.
+
+`Python` `NLP` `SVD` `Tkinter`
 
 ---
 
-### **Steiner Tree Problem: Optimization Algorithms for Network Design**  
-**Key Skills**: Graph Theory, Optimization Algorithms, Python, Network Design
-- Implemented the Branch-and-Bound algorithm to achieve exact solutions for the Steiner Tree Problem.
-- Developed an approximation algorithm (Vazirani and Yannakakis) for efficient, near-optimal solutions with a guaranteed error bound.
-- Analyzed trade-offs between computational efficiency and accuracy in solving NP-hard problems.
-- Applied solutions to real-world use cases in telecommunications, VLSI design, and transportation networks.
-- [View Repository](https://github.com/venkata-sai-sriram-potluri/Steiner-Tree-Problem-Optimization-Algorithms-for-Network-Design)
+### [Steiner Tree Optimization](https://github.com/venkata-sai-sriram-potluri/Steiner-Tree-Problem-Optimization-Algorithms-for-Network-Design)
+Branch-and-bound exact solver + approximation algorithm for NP-hard network design problems.
+
+`Python` `Graph Theory` `Optimization`
+
+</details>
 
 ---
 
-## 🔥 Let's Collaborate!
+## 📊 GitHub Stats
 
-I'm always open to exploring challenging projects in **machine learning**, **cloud engineering**, and **software development**. Feel free to connect or drop a message!  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=venkata-sai-sriram-potluri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkata-sai-sriram-potluri&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <em>Open to collaborating on cloud infrastructure, DevOps automation, and ML projects.</em><br/>
+  <a href="https://www.linkedin.com/in/venkata-sai-sriram-potluri/">Let's connect →</a>
+</p>
